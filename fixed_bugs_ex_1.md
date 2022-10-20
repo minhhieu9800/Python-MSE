@@ -1,5 +1,5 @@
-
-# Sau khi chắt lọc ý kiến của mọi người, e đã chạy được ngon hết, nay tổng hợp lại cần sửa 3 cái nhé:
+## [Bài tập 1](https://www.kaggle.com/code/mubashir1/one-tutorial-to-understand-all-m5-forecasting/)
+# Sau khi chắt lọc ý kiến của mọi người, e đã chạy được ngon hết, tổng hợp lại cần sửa 3 cái nhé:
 1. Thêm các dòng lệnh để downgrade vài package về đúng version đang dùng (trước phần Import thư viện ở đầu chương trình nhé)
 ```
 !pip install pandas==1.1.3
